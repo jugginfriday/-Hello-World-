@@ -1,0 +1,4 @@
+- [ ] Learn GitHub
+- [ ] Create my first repo
+- [ ] Upload a file
+- [ ] Share with friends
